@@ -1,6 +1,6 @@
-- 👋 Hi, I'm @Souzajna
+- 👋 Hi, I'm Jonatas.
 - 👀 I'm interested in making a career transition to the technology area.
-- 🌱 I'm learning programming logic and Java language.
+- 🌱 I'm learning programming logic, Java language, NodeJs, React Native, JavaScript, MySQL.
 - 💞️ I'm learning about Git and GitHub and this is my first project.
 - 📫 How to reach me...
 
